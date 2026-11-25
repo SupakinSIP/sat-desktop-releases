@@ -10,13 +10,13 @@
 
 | ระบบปฏิบัติการ | ดาวน์โหลด |
 |---|---|
-| Windows 10/11 (64-bit) | [**SIP-MetSat-Station-Setup-windows-x64.exe**](https://github.com/SupakinSIP/sat-desktop-releases/releases/latest/download/SIP-MetSat-Station-Setup-windows-x64.exe) |
-| macOS 11 ขึ้นไป (Apple Silicon และ Intel) | [**SIP-MetSat-Station-macos-universal.dmg**](https://github.com/SupakinSIP/sat-desktop-releases/releases/latest/download/SIP-MetSat-Station-macos-universal.dmg) |
-| Ubuntu / Debian (64-bit) | [**SIP-MetSat-Station-linux-amd64.deb**](https://github.com/SupakinSIP/sat-desktop-releases/releases/latest/download/SIP-MetSat-Station-linux-amd64.deb) |
-| Fedora / openSUSE (64-bit) | [SIP-MetSat-Station-linux-x86_64.rpm](https://github.com/SupakinSIP/sat-desktop-releases/releases/latest/download/SIP-MetSat-Station-linux-x86_64.rpm) |
-| Linux อื่น ๆ (64-bit) | [SIP-MetSat-Station-linux-amd64.AppImage](https://github.com/SupakinSIP/sat-desktop-releases/releases/latest/download/SIP-MetSat-Station-linux-amd64.AppImage) |
+| Windows 10/11 (64-bit) | [**SIP-MetSat-Station-Setup-windows-x64.exe**](https://github.com/specific-impulse/sat-desktop-releases/releases/latest/download/SIP-MetSat-Station-Setup-windows-x64.exe) |
+| macOS 11 ขึ้นไป (Apple Silicon และ Intel) | [**SIP-MetSat-Station-macos-universal.dmg**](https://github.com/specific-impulse/sat-desktop-releases/releases/latest/download/SIP-MetSat-Station-macos-universal.dmg) |
+| Ubuntu / Debian (64-bit) | [**SIP-MetSat-Station-linux-amd64.deb**](https://github.com/specific-impulse/sat-desktop-releases/releases/latest/download/SIP-MetSat-Station-linux-amd64.deb) |
+| Fedora / openSUSE (64-bit) | [SIP-MetSat-Station-linux-x86_64.rpm](https://github.com/specific-impulse/sat-desktop-releases/releases/latest/download/SIP-MetSat-Station-linux-x86_64.rpm) |
+| Linux อื่น ๆ (64-bit) | [SIP-MetSat-Station-linux-amd64.AppImage](https://github.com/specific-impulse/sat-desktop-releases/releases/latest/download/SIP-MetSat-Station-linux-amd64.AppImage) |
 
-ทุกเวอร์ชันและบันทึกการเปลี่ยนแปลง: [Releases](https://github.com/SupakinSIP/sat-desktop-releases/releases)
+ทุกเวอร์ชันและบันทึกการเปลี่ยนแปลง: [Releases](https://github.com/specific-impulse/sat-desktop-releases/releases)
 
 ## วิธีติดตั้ง
 
@@ -54,6 +54,6 @@ AppImage: `chmod +x SIP-MetSat-Station-linux-amd64.AppImage` แล้วดั�
 
 ---
 
-**English.** SIP MetSat Station shows near-real-time weather-satellite imagery (a new image every 10 minutes) on Windows, macOS and Ubuntu. Download the installer for your system from the table above or from [Releases](https://github.com/SupakinSIP/sat-desktop-releases/releases). The installers are not yet code-signed: on Windows choose *More info → Run anyway*; on macOS use *System Settings → Privacy & Security → Open Anyway* on first launch.
+**English.** SIP MetSat Station shows near-real-time weather-satellite imagery (a new image every 10 minutes) on Windows, macOS and Ubuntu. Download the installer for your system from the table above or from [Releases](https://github.com/specific-impulse/sat-desktop-releases/releases). The installers are not yet code-signed: on Windows choose *More info → Run anyway*; on macOS use *System Settings → Privacy & Security → Open Anyway* on first launch.
 
 แหล่งที่มาของภาพ: เว็บไซต์กรมอุตุนิยมวิทยาญี่ปุ่น (ภาพได้รับการปรับแต่งเพื่อการแสดงผล) · Imagery source: Japan Meteorological Agency website (edited for display).
